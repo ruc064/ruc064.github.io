@@ -3,7 +3,7 @@ var interestText = document.getElementById("interests-text");
 var subjectArray = ['Tennis', 'Swimming', 'Piano', 'Competitive Gaming']; 
 var idArray = ['interests-tennis', 'interests-swim', 'interests-piano', 'interests-league'];
 var right = document.getElementById("right"); 
-var subjectColor = ['#88cfe2', '#515f63', '#5edbe5', '#27b5ba'];
+var subjectColor = ['#88cfe2', '#515f63', '#5edbe5', 'black'];
 var counter = 1;
 var arrCounter = 0;
                 
@@ -14,7 +14,8 @@ var arrCounter = 0;
                 right.style.visibility = "hidden";  
                 left.style.visibility = "visible"; 
             }
-        interestText.setAttribute("id", idArray[arrCounter + 1]);             subject.style.color = subjectColor[counter - 1]; 
+        interestText.setAttribute("id", idArray[arrCounter + 1]);             
+        subject.style.color = subjectColor[counter - 1]; 
         arrCounter++;
             if(arrCounter + 1 > idArray.length) {                        
                 arrCounter = 0;
