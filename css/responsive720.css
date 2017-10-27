@@ -1,0 +1,210 @@
+#background {
+    min-width: 620px; 
+}
+
+#top-picture {
+    min-width: 360px; 
+    height: 400px; 
+}
+
+#intro {
+    font-size: 40px; 
+    position: relative;
+    bottom: 50px; 
+}
+
+.about {
+    text-align: center;
+    letter-spacing: 0.5px; 
+    word-spacing: 1px;
+}
+
+#summary {
+    position: relative;
+}
+
+#summary-text {
+    position: relative; 
+    width: 520px; 
+    right: 33%; 
+}
+
+
+#sub-interest {
+    width: 300px; 
+    position: relative; 
+    left: 100px; 
+}
+
+#sub-interest {
+    width: 300px; 
+    position: relative; 
+    left: 120px; 
+}
+
+#interests-text {
+    min-height: 150px;   
+    background: url('/images/tennis.jpg') no-repeat left center; 
+    background-size: cover; 
+    width: 500px; 
+    position: relative;
+    left: 20px; 
+}
+
+#subject {
+    position: relative; 
+    bottom: 50px; 
+    font-size: 25px;
+    color: #88cfe2;
+}
+
+#interests-tennis {
+    height: 190px; 
+    width: 500px; 
+    min-height: 150px; 
+    padding: 35px; 
+    position: relative; 
+    left: 20px;
+    background: url('/images/tennis.jpg') no-repeat left center; 
+    background-size: cover; 
+}
+
+#interests-swim {
+    height: 190px; 
+    width: 500px; 
+    min-height: 150px; 
+    padding: 35px; 
+    position: relative; 
+    left: 20px;
+    background: url('/images/swimming.jpg') no-repeat center center; 
+    background-size: cover; 
+}
+
+#interests-piano {
+    height: 190px; 
+    width: 500px;
+    min-height: 150px; 
+    padding: 35px; 
+    position: relative; 
+    left: 20px;
+    background: url('/images/piano.jpg') no-repeat center center; 
+    background-size: cover;
+}
+
+#interests-league {
+    height: 190px; 
+    width: 500px; 
+    min-height: 150px; 
+    padding: 30px; 
+    position: relative; 
+    left: 19px;
+    background: url('/images/league.jpg') no-repeat left center; 
+    background-size: cover;
+}
+
+.sub-heading {
+    bottom: 75px; 
+    font-size: 25px; 
+    font-family: cursive; 
+    color: #717773
+}
+
+#aspirations-text { 
+    min-height: 150px; 
+    right: 130px; 
+    width: 500px; 
+    position: relative; 
+    right: 270px; 
+    background: url('/images/coding.jpg') no-repeat center center; 
+    background-size: cover; 
+    color: white; 
+}
+
+#sub-aspirations{
+    width: 300px; 
+    position: relative; 
+    left: -175px; 
+}
+
+#skills-text {
+    padding: 45px 20px 0px 20px; 
+    width: 500px; 
+    min-height: 165px;
+    position: relative; 
+    left: -2px; 
+    background: url('/images/tag.jpg') no-repeat center center; 
+    background-size: cover; 
+    font-size: 16px;
+    color: #134925; 
+}
+
+#sub-skills {
+    position: relative; 
+    left: 160px; 
+}
+
+#education-text {    
+    position: relative; 
+    left: -265px; 
+    width: 500px; 
+    font-size: 20px; 
+}
+
+#sub-education{
+    left: -180px;  
+    width: 350px; 
+}
+
+.text{
+    position: relative; 
+    bottom: 75px; 
+    border: 5px solid #d7dde2; 
+    border-radius: 75px; 
+    background-color: #f9fcff;
+    margin-bottom: 75px; 
+}
+
+a {
+    text-decoration: none;
+    display: inline-block; 
+}
+
+#interests {
+    right: 40px; 
+    margin-top: 40px; 
+}
+
+#left {
+    position: relative; 
+    top: 50px;
+    right: 45%; 
+    color: #f2e3ee; 
+    visibility: hidden; 
+    border: 2px ridge #aeb6ef; 
+}
+
+#right {
+    position: relative; 
+    bottom: 25px; 
+    left: 50%; 
+    color: grey; 
+}
+
+button {
+    border: 2px ridge grey; 
+    border-radius: 10px; 
+    background: none;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block; 
+}
+
+#subject {
+    position: relative; 
+    bottom: 50px;   
+    font-size: 25px;
+    color: #88cfe2;
+}
+

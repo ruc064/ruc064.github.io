@@ -1,0 +1,222 @@
+#background {
+    background-color: #e3eaf9; 
+}
+
+#top-picture {
+    min-width: 1068px; 
+    height: 500px;
+    text-align: center; 
+    padding-top: 200px; 
+    background: url(/images/piano.jpg) no-repeat center center; 
+    background-size: cover;   
+    color: white; 
+    margin-bottom: 145px; 
+}
+
+
+#intro {
+    font-size: 40px;  
+}
+
+.text{
+    position: relative; 
+    bottom: 75px; 
+    border: 5px solid #d7dde2; 
+    border-radius: 75px; 
+    background-color: #f9fcff;
+    margin-bottom: 75px;
+}
+
+#summary-text {
+    padding: 20px 10px 5px 10px; 
+    min-width: 450px; 
+    min-height: 150px;
+    padding-bottom: 10px;
+    bottom: 100px;
+    text-align: center;
+}
+
+#interests-text {
+    height: 190px; 
+    min-width: 350px; 
+    min-height: 150px; 
+    padding: 35px; 
+    position: relative; 
+    left: 75px;    
+    background: url('/images/tennis.jpg') no-repeat left center; 
+    background-size: cover;
+}
+
+#interests-tennis {
+    height: 190px; 
+    min-width: 350px; 
+    min-height: 150px; 
+    padding: 35px; 
+    position: relative; 
+    left: 75px;
+    background: url('/images/tennis.jpg') no-repeat left center; 
+    background-size: cover; 
+}
+
+.sub-heading {
+    position: relative;
+    bottom: 75px; 
+    font-size: 25px; 
+    font-family: cursive; 
+    color: #717773  ;
+}
+
+#sub-interest {
+    width: 300px; 
+    position: relative; 
+    left: 110px; 
+}
+
+#subject {
+    position: relative; 
+    bottom: 50px;  
+    font-size: 25px;
+    color: #88cfe2;
+    font-family: monospace; 
+    background: #eaf6f7;
+    border-radius: 100px; 
+}
+
+#left {
+    position: relative; 
+    top: 45px;
+    right: 55%; 
+    color: #f2e3ee; 
+    visibility: hidden; 
+    border: 2px ridge #aeb6ef; 
+}
+
+#right {
+    position: relative; 
+    bottom: 25px; 
+    left: 55%; 
+    color: grey; 
+}
+
+button {
+    border: 2px ridge grey; 
+    border-radius: 10px; 
+    background: none;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block; 
+}
+
+
+#interests {
+    right: 40px; 
+    margin-top: 40px; 
+}
+
+.about {
+    text-align: center;
+    letter-spacing: 0.5px; 
+    word-spacing: 1px;
+}
+
+#aspirations-text {
+    padding: 20px 20px; 
+    min-width: 400px; 
+    max-height: 300px;
+    position: relative; 
+    background: url('/images/coding.jpg') no-repeat center center; 
+    background-size: cover; 
+    color: white; 
+}
+
+#sub-aspirations{
+    position: relative;  
+    width: 150px; 
+    left: 35%; 
+}
+
+#skills-text {
+    padding: 30px 20px 0px 20px; 
+    min-width: 350px; 
+    min-height: 165px;
+    position: relative; 
+    left: 35px; 
+    background: url('/images/tag.jpg') no-repeat center center; 
+    background-size: cover; 
+    color: #134925;  
+}
+
+#sub-skills {
+    position: relative; 
+    left: 33px;  
+}
+
+#education-text {
+    padding: 75px 20px 0px; 
+    max-width: inherit; 
+    min-width: 350px;  
+    min-height: 185px; 
+    position: relative;    
+    left: 20px; 
+    background: url('/images/bear.jpg') no-repeat center center;
+    background-size: cover; 
+    color: orangered; 
+}
+
+#sub-education{
+    position: relative; 
+    left: 20px; 
+}
+
+#interests-swim {
+    height: 190px; 
+    min-width: 350px; 
+    min-height: 150px; 
+    padding: 35px; 
+    position: relative; 
+    left: 75px;
+    background: url('/images/swimming.jpg') no-repeat center center; 
+    background-size: cover; 
+}
+
+#interests-piano {
+    height: 190px; 
+    min-width: 350px; 
+    min-height: 150px; 
+    padding: 35px; 
+    position: relative; 
+    left: 75px;
+    background: url('/images/piano.jpg') no-repeat center center; 
+    background-size: cover;
+}
+
+#interests-league {
+    height: 190px; 
+    min-width: 350px; 
+    min-height: 150px; 
+    padding: 35px; 
+    position: relative; 
+    left: 75px;
+    background: url('/images/league.jpg') no-repeat left center; 
+    background-size: cover;
+}
+
+#contact-info {
+    width: 300px; 
+    margin: auto; 
+    text-align: center; 
+    position: relative; 
+    bottom: 50px; 
+}
+
+
+#sub-overall {  
+    height: 1700px; 
+    margin: 170px auto; 
+    background-color: #f2f6ff; 
+    border-radius: 100px; 
+    margin-bottom: 100px; 
+}
+

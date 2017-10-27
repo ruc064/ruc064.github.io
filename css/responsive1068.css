@@ -1,0 +1,172 @@
+#top-picture {
+    min-width: 720px; 
+}
+
+#intro {
+    font-size: 40px;  
+}
+
+.about {
+    text-align: center;
+    letter-spacing: 0.5px; 
+    word-spacing: 1px;
+}
+
+#summary {
+    position: relative;
+    right: 30px; 
+}
+
+#summary-text {
+    right: 30px; 
+    padding: 20px 20px 10px; 
+}
+
+#sub-interest {
+    width: 300px; 
+    position: relative; 
+    left: 100px; 
+}
+
+
+#sub-interest {
+    width: 300px; 
+    position: relative; 
+    left: 110px; 
+}
+
+#aspirations-text { 
+    right: 130px;
+    background: url('/images/coding.jpg') no-repeat center center; 
+    background-size: cover; 
+    color: white; 
+}
+
+#sub-aspirations{
+    width: 150px; 
+    left: 0%; 
+}
+
+.sub-heading {
+    position: relative;
+    bottom: 75px; 
+    font-size: 25px; 
+    font-family: cursive; 
+    color: #717773  ;
+}
+
+
+#skills-text {
+    padding: 30px 20px 0px 20px; 
+    min-width: 350px; 
+    min-height: 165px;
+    position: relative; 
+    left: 35px;
+    background: url('/images/tag.jpg') no-repeat center center; 
+    background-size: cover;
+    color: #134925;    
+}
+
+#sub-skills {
+    position: relative; 
+    left: 60px; 
+}
+
+#education-text {    
+    left: -50%; 
+}
+
+#sub-education{
+    left: -50%; 
+    width: 350px; 
+}
+
+#subject {
+    position: relative; 
+    bottom: 50px;  
+    font-size: 25px;
+    color: #88cfe2;
+    font-family: monospace; 
+    background: #eaf6f7;
+    border-radius: 100px; 
+}
+
+#interests-text {
+    height: 190px; 
+    min-width: 350px; 
+    min-height: 150px; 
+    padding: 35px; 
+    position: relative; 
+    left: 75px;    
+    background: url('/images/tennis.jpg') no-repeat left center; 
+    background-size: cover;
+}
+
+#interests-tennis {
+    height: 190px; 
+    min-width: 350px; 
+    min-height: 150px; 
+    padding: 35px; 
+    position: relative; 
+    left: 75px;
+    background: url('/images/tennis.jpg') no-repeat left center; 
+    background-size: cover; 
+}
+
+#interests-swim {
+    height: 190px; 
+    min-width: 350px; 
+    min-height: 150px; 
+    padding: 35px; 
+    position: relative; 
+    left: 75px;
+    background: url('/images/swimming.jpg') no-repeat center center; 
+    background-size: cover; 
+}
+
+#interests-piano {
+    height: 190px; 
+    min-width: 350px; 
+    min-height: 150px; 
+    padding: 35px; 
+    position: relative; 
+    left: 75px;
+    background: url('/images/piano.jpg') no-repeat center center; 
+    background-size: cover;
+}
+
+#interests-league {
+    height: 190px; 
+    min-width: 350px; 
+    min-height: 150px; 
+    padding: 35px; 
+    position: relative; 
+    left: 75px;
+    background: url('/images/league.jpg') no-repeat left center; 
+    background-size: cover;
+}
+
+.text{
+    position: relative; 
+    bottom: 75px; 
+    border: 5px solid #d7dde2; 
+    border-radius: 75px; 
+    background-color: #f9fcff;
+    margin-bottom: 75px; 
+}
+
+
+#sum {
+    color: #7aabdd; 
+}
+
+a {
+    text-decoration: none;
+    display: inline-block; 
+}
+
+#interests {
+    right: 40px; 
+    margin-top: 40px; 
+}
+
